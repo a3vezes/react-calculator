@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Calculator Project With ReactJs Using Hooks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Todos
+
+-Implements Redux Or Context API
 
 ## Available Scripts
 
