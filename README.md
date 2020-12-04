@@ -2,7 +2,7 @@
 
 ## Todos
 
--Implements Redux Or Context API
+- Implements Redux Or Context API
 
 ## Available Scripts
 
