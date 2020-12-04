@@ -2,7 +2,9 @@
 
 ## Todos
 
-- Implements Redux Or Context API
+- +/- Button
+- Decimal Point
+- Implement Redux Or Context API
 
 ## Available Scripts
 
